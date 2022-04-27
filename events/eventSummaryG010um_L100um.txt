@@ -1,0 +1,1 @@
+2021-06-14T19:00:00.000000	-0.018499999999985306 False alarm, due to movement and sample rate
